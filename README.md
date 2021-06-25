@@ -6,4 +6,4 @@ A simple game of Tic-Tac-Toe that implements the strategy pattern allowing the u
 
 The program takes two command line arguments. The first argument is the number of players (i.e `0` is computer vs computer, `1` is computer vs player, and `2` is player vs player). The second command line argument is for verbosity (i.e. `0` is no verbosity, `1` is verbosity on). After each game, the program will ask for user input if the strategy would like to be changed.
 
-If a JAR file is created, an example of the program would be as follows: `java -jar TTT.jar 0 1`. Otherwise compile it and run the main.java file in a favored IDE.
+If a JAR file is created, an example of the program would be as follows: `java -jar TTT.jar 0 1`. Otherwise compile it and run the main.java file in a favored IDE. A generated JAR file can found found under tags on this repository.
